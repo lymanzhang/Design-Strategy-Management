@@ -30,12 +30,12 @@ a repo especially for design management course
 
 - 产品策略
 	- 价值流模型
-	![ValueChainModel](https://github.com/lymanzhang/MachineLearning2017/blob/master/valuechain/valuechain.png)  
+	![ValueChainModel](https://github.com/lymanzhang/Design-Strategy-Management/blob/master/valuechain/valuechain.png)  
 	**注**：必须对价值流模型中所有的利益相关者进行说明
 
 
 	- 商业模式
-	![BusinessModel](https://github.com/lymanzhang/MachineLearning2017/blob/master/valuechain/bussinessmodel.png)  
+	![BusinessModel](https://github.com/lymanzhang/Design-Strategy-Management/blob/master/valuechain/bussinessmodel.png)  
 	**注**：必须对商业模型所设计的所有模块进行说明
 
 	- 价值主张|属性意象|产品架构|产品属性框架图  
